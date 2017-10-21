@@ -1,3 +1,3 @@
-![PIC1](http://imgout.ph.126.net/58276021/cubicCurve.jpg)  
+![PIC1](http://imgout.ph.126.net/58268013/QuadBezier.jpg)  
 ![PIC2](http://imgout.ph.126.net/58277024/CurveEdit.jpg)  
 ![PIC3](http://imgout.ph.126.net/58276021/cubicCurve.jpg)  
