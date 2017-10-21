@@ -1,19 +1,13 @@
 =info
-    逐点绘制字符点阵
-    如果开启 GLUT_MULTISAMPLE，会造成字符走样
+    Conic Bezier/ Quadratic Bezier
 =cut
 
-use Encode;
-use Data::Dump qw/dump/;
-use Data::Dumper;
-use Font::FreeType;
 use feature 'state';
 use IO::Handle;
+STDOUT->autoflush(1);
 
 use OpenGL qw/ :all /;
 use OpenGL::Config;
-
-STDOUT->autoflush(1);
 
 BEGIN
 {
